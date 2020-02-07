@@ -1,0 +1,22 @@
+.resumo{
+    word-wrap: break-word;
+}
+.informacoes{
+    height: auto;
+
+}
+
+body{
+    background-color: rgb(209, 202, 202);
+}
+.exibir{
+    margin: auto;
+}
+.container{
+    display: flex;
+
+    justify-content: center;
+}
+.card{
+    height: 100%;
+}
